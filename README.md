@@ -1,15 +1,23 @@
-#Lenovo Ideapad 310-14IKB Hackintosh EFI
+Lenovo Ideapad 310-14IKB Hackintosh EFI
 
-Clover Config file:
+- Clover Config file:
+
 https://github.com/RehabMan/OS-X-Clover-Laptop-Config
 
 - Kexts:
-https://www.tonymacx86.com/resources/intelgraphicsfixup.337/
-https://www.tonymacx86.com/resources/lilu.336/
-https://www.tonymacx86.com/resources/fakesmc.325/
-https://github.com/RehabMan/OS-X-ACPI-Battery-Driver
-https://www.tonymacx86.com/resources/voodootscsync-4-core.285/
-https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch/tree/master/kexts/AppleBacklightInjector.kext
+
+1. https://www.tonymacx86.com/resources/intelgraphicsfixup.337/
+
+2. https://www.tonymacx86.com/resources/lilu.336/
+
+3. https://www.tonymacx86.com/resources/fakesmc.325/
+
+4. https://github.com/RehabMan/OS-X-ACPI-Battery-Driver
+
+5. https://www.tonymacx86.com/resources/voodootscsync-4-core.285/
+
+6. https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch/tree/master/kexts/AppleBacklightInjector.kext
+
 
 - Installation:
 
@@ -18,15 +26,16 @@ Prepare Installation Media using mentioned Kexts and Clover file.
 Use fake ig-platform-id for installation like 0x12345678
 
 - Post Installation:
-Use the same fake ig-platform-id for first boot like 0x12345678
 
-Install Clover to your macOS drive.
+Step 1: Use the same fake ig-platform-id for first boot like 0x12345678
 
-Paste kexts to EFI drive and S/L/E
+Step 2: Install Clover to your macOS drive.
 
-Rebuild cache
+Step 3: Paste kexts to EFI drive and S/L/E
 
-Reboot using default ig-platform-id i.e., 0x591b0000
+Step 4: Rebuild cache
+
+Step 5: Reboot using default ig-platform-id i.e., 0x591b0000
 
 
 - Brightness fix:
