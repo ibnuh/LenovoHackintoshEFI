@@ -12,6 +12,7 @@ https://www.tonymacx86.com/resources/voodootscsync-4-core.285/
 https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch/tree/master/kexts/AppleBacklightInjector.kext
 
 - Installation:
+
 Prepare Installation Media using mentioned Kexts and Clover file.
 Use fake ig-platform-id for installation like 0x12345678
 
