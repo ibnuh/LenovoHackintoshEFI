@@ -54,9 +54,11 @@ Step 1: https://www.tonymacx86.com/threads/guide-how-to-patch-dsdt-for-working-b
 Step 2: https://github.com/RehabMan/OS-X-ACPI-Battery-Driver
 
 - Power Management
+
 https://github.com/Piker-Alpha/ssdtPRGen.sh
 
 - Wireless
+
 Replace chip with a BCM94352Z
 
 
