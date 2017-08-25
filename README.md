@@ -59,4 +59,5 @@ https://github.com/Piker-Alpha/ssdtPRGen.sh
 - Wireless
 Replace chip with a BCM94352Z
 
+
 If you've got same Laptop model you can just simply use the EFI folder posted above.
