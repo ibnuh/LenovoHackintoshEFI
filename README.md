@@ -1,3 +1,7 @@
+
+![alt text](https://raw.githubusercontent.com/29satnam/HACKINTOSHLENOVOEFI/img.jpeg)
+
+
 Lenovo Ideapad 310-14IKB Hackintosh EFI
 
 - Clover Config file:
