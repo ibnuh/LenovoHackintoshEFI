@@ -1,5 +1,5 @@
 
-![alt text](https://raw.githubusercontent.com/29satnam/HACKINTOSHLENOVOEFI/img.jpeg)
+![alt text](https://raw.githubusercontent.com/29satnam/LenovoHackintoshEFI/IMG_0653.JPG)
 
 
 Lenovo Ideapad 310-14IKB Hackintosh EFI
