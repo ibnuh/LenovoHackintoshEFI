@@ -53,3 +53,10 @@ http://forum.osxlatitude.com/index.php?/topic/1948-elan-focaltech-and-synaptics-
 Step 1: https://www.tonymacx86.com/threads/guide-how-to-patch-dsdt-for-working-battery-status.116102/
 Step 2: https://github.com/RehabMan/OS-X-ACPI-Battery-Driver
 
+- Power Management
+https://github.com/Piker-Alpha/ssdtPRGen.sh
+
+- Wireless
+Replace chip with a BCM94352Z
+
+If you've got same laptop model you can just simple use the EFI folder posted above.
